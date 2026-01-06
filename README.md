@@ -1,14 +1,11 @@
-\# Excel Data Cleaner \& Validator
-
-
+**Excel Data Cleaner \& Validator**
 
 This is a Streamlit-based app to clean, validate, and standardize Excel files.  
 
 It handles duplicates, missing values, column standardization, and generates a validation report.
 
 
-
-\## Features
+**Features**
 
 \- Remove duplicates
 
@@ -21,10 +18,7 @@ It handles duplicates, missing values, column standardization, and generates a v
 \- Supports any Excel file structure dynamically
 
 
-
-\## Installation
-
-```bash
+**Installation**
 
 pip install -r requirements.txt
 
